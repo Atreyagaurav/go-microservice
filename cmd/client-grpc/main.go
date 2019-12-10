@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	v1 "github.com/atreyagaurav/go-microservices/pkg/api/v1"
+	v1 "github.com/atreyagaurav/go-microservice/pkg/api/v1"
 	"github.com/golang/protobuf/ptypes"
 	"google.golang.org/grpc"
 )

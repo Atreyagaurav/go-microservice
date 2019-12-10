@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	v1 "github.com/atreyagaurav/go-microservices/pkg/api/v1"
+	v1 "github.com/atreyagaurav/go-microservice/pkg/api/v1"
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/timestamp"
 	"gopkg.in/DATA-DOG/go-sqlmock.v1"

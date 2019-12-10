@@ -7,10 +7,10 @@ import (
 	"fmt"
 
 	// mysql driver
-	v1 "github.com/atreyagaurav/go-microservices/pkg/service/v1"
+	v1 "github.com/atreyagaurav/go-microservice/pkg/service/v1"
 	_ "github.com/go-sql-driver/mysql"
 
-	"github.com/atreyagaurav/go-microservices/pkg/protocol/grpc"
+	"github.com/atreyagaurav/go-microservice/pkg/protocol/grpc"
 )
 
 // Config is configuration for Server
